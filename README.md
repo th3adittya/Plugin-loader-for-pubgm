@@ -5,6 +5,15 @@
 
 <h4 align="center">Plugin loader for Player-Unknown-Battalegound mobile (PUBGM).</h4>
 
+
+# 📢 Important Announcement
+
+I am currently looking for developers or researchers who are still active in the game cheat development space. 
+
+I have successfully developed a **Complete Offset Finder** that requires zero manual effort. If you are working with Unreal Engine 4.2, this tool allows you to simply **click and export** all necessary offsets instantly. 
+
+If you are interested in collaborating or testing this feature, please reach out via the contact details below.
+
 <p align="center">
   <a href="#features">Features</a> •
   <a href="#how-to-use">How To Use</a> •
@@ -65,3 +74,4 @@ For any kind of questions:
 ---
 
 > GitHub [@th3ad1ttya](https://github.com/th3ad1ttya) &nbsp;&middot;&nbsp;
+
