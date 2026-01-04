@@ -3,6 +3,43 @@
   <br>
 </h1>
 
+---
+
+# 🚨 <samp>**IMPORTANT ANNOUNCEMENT**</samp> 🚨
+
+> [!IMPORTANT]
+> ### **CORE DEVELOPERS & REVERSERS WANTED**
+> I have engineered a **Zero-Effort Universal Offset Finder**. If you are tired of manual dumping, this tool is the definitive solution for **UE 4.2** games.
+
+---
+
+## ⚡ **ULTIMATE OFFSET DUMPING SUITE**
+Stop wasting hours on pattern scanning. This tool provides **Instant One-Click Export** for all critical game data.
+
+### **✨ KEY CAPABILITIES:**
+* **🎯 Aimbot & ESP Essentials:**
+  - Instantly dump **GName, GWorld, UWorld, SDK**, and **Actor/LocalPlayer** offsets.
+  - Full support for **Bone, Vector,** and **Actor** pointer types.
+* **🛡️ Anti-Cheat Bypass Research:**
+  - Specialized module dumping for **BattlEye** protected games.
+* **⚙️ 100% Automation:**
+  - **No manual effort.** No manual scanning. No pattern searching. Just Click and Export.
+* **📥 Pro-Developer Export:**
+  - Direct output to high-quality **Header (.h)** or **C++** files.
+* **💡 Designed for Newcomers:**
+  - **No Programming Required:** Created for people who want to build their own tools but don't know how to code yet. 
+  - **Experience Builder:** The easiest way to learn how game memory works by seeing the real data in real-time.
+
+---
+
+
+#### **[ GET EXCLUSIVE ACCESS ]**
+📧 **Developer Email:** [theadihasan@gmail.com](mailto:th3ad1ttya@gmail.com)  
+🐙 **GitHub Profile:** [@th3ad1ttya](https://github.com/th3ad1ttya)
+
+---
+
+
 <h4 align="center">Plugin loader for Player-Unknown-Battalegound mobile (PUBGM).</h4>
 
 <p align="center">
@@ -65,3 +102,4 @@ For any kind of questions:
 ---
 
 > GitHub [@th3ad1ttya](https://github.com/th3ad1ttya) &nbsp;&middot;&nbsp;
+
